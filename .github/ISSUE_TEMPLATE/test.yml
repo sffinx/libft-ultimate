@@ -1,0 +1,25 @@
+name: Cas de test manquant
+description: Proposer un cas pertinent pour le sujet PDF 1.3.
+title: "[Test] "
+body:
+  - type: input
+    id: function
+    attributes:
+      label: Fonction concernée
+      placeholder: ft_split
+    validations:
+      required: true
+  - type: textarea
+    id: case
+    attributes:
+      label: Entrée, résultat attendu et défaut visé
+      description: Expliquer ce que ce cas détecte et pourquoi les cas existants ne suffisent pas.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Origine et règle de référence
+      description: Lien précis vers un testeur, ou « test ajouté ». Citer le sujet ou le manuel qui justifie l’attente.
+    validations:
+      required: true

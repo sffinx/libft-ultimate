@@ -1,0 +1,40 @@
+name: Bug ou faux positif
+description: Un résultat paraît incorrect, le testeur plante ou le message est peu clair.
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Version du testeur
+      description: Copier la sortie de ./libft-test --version, ou indiquer le commit testé.
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environnement
+      placeholder: Distribution Linux, version de Python, compilateur, Valgrind si utilisé.
+    validations:
+      required: true
+  - type: textarea
+    id: command
+    attributes:
+      label: Commande et message complet
+      description: Garder l’identifiant du cas et la graine. Retirer les informations privées si nécessaire.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Résultat attendu
+      description: Pour un faux positif, citer la règle du sujet PDF 1.3 ou la page du manuel.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Petit exemple pour reproduire
+      description: Quelques entrées ou un extrait minimal suffisent. Ne pas joindre le PDF ou tout le dépôt de rendu.
+      render: c

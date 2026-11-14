@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.c text
+*.py text
+*.md text
+*.json text
+*.yml text
+libft-test text

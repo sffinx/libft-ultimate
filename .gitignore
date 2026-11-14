@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.o
+*.a
+*.so
+*.log
+core
+core.*
+.DS_Store
+.testeur/clang-validation.txt
+.testeur/validation-environnement.json
+.testeur/validation-resultats.json
+.testeur/tests/last-verification.json
+verification.json
+report*.json
+rapport*.json

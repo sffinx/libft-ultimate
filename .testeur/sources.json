@@ -1,0 +1,144 @@
+[
+  {
+    "repo": "Tripouille/libftTester",
+    "url": "https://github.com/Tripouille/libftTester",
+    "commit": "3e4e3cd1ae235709b0a627a465672d71ac9998e8",
+    "branch": "master",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "7f327abdf619ddfa1d640191bd8df0cf806746f83eee90d1b4a159aa2eecd9ee",
+    "files": 56
+  },
+  {
+    "repo": "xicodomingues/francinette",
+    "url": "https://github.com/xicodomingues/francinette",
+    "commit": "b828ca56497afd1f183da483ba64caf6fe6326e3",
+    "branch": "master",
+    "archived": true,
+    "retrieved_status": 200,
+    "archive_sha256": "577a87934388b4f9b10b49d0430cef26fc048fe7df86442501bb8d259babf4f7",
+    "files": 261
+  },
+  {
+    "repo": "alelievr/libft-unit-test",
+    "url": "https://github.com/alelievr/libft-unit-test",
+    "commit": "c241ebb8243f8827b26331dc79dbe453f675be6c",
+    "branch": "master",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "af6d6deaa90f14e3c96221209216deb752e7a5f0b46f23224ed29d395402101d",
+    "files": 42
+  },
+  {
+    "repo": "0x050f/libft-war-machine",
+    "url": "https://github.com/0x050f/libft-war-machine",
+    "commit": "c344fdf251db4aea6585e1522d3d22632aefc806",
+    "branch": "master",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "8675fdc2717f2245b2535bbc55b577ce81a4283b220cb0c161ffc4fe67c80e26",
+    "files": 548
+  },
+  {
+    "repo": "jtoty/Libftest",
+    "url": "https://github.com/jtoty/Libftest",
+    "commit": "d6cdc5255fc1aacaa19dca07d8adab0ca65e9bdb",
+    "branch": "master",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "dbb0bc24fd4b32251bf7c2e714ba8c28aa0ceade3f3a2968a2abdf355bd15c94",
+    "files": 557
+  },
+  {
+    "repo": "usatie/libft-tester-tokyo",
+    "url": "https://github.com/usatie/libft-tester-tokyo",
+    "commit": "3800c3a6870f83bb0d8308514a80874fafbf4b48",
+    "branch": "master",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "84f30d35483bd4871098389862a17210a3ff9ba3eaabaebaedd581dd8fc48f4a",
+    "files": 52
+  },
+  {
+    "repo": "FranFrau/Supreme-Tester-Libft",
+    "url": "https://github.com/FranFrau/Supreme-Tester-Libft",
+    "commit": "76b7d790ed2eb2f8718e75c6a468815da2ab02f0",
+    "branch": "main",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "29f3d1302783434aed92293f1823c7b726ab2a18153cfdda6910a0e348252389",
+    "files": 2
+  },
+  {
+    "repo": "WaRtr0/francinette-image",
+    "url": "https://github.com/WaRtr0/francinette-image",
+    "commit": "6b2fcb8e8e587f1ba2969e6fc1fc535847a4cc07",
+    "branch": "master",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "1be7b3909ceff7d1121e5d9efac99c8853f044a52f02a37d9676f4e29a310732",
+    "files": 17
+  },
+  {
+    "repo": "NeddyKun01/Libft-Tester",
+    "url": "https://github.com/NeddyKun01/Libft-Tester",
+    "commit": "7a9047e1853d524c89517df46a7d9bd7644b9b48",
+    "branch": "main",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "284cfc737f6b023adf10ac62552ee5ede59b216e9da8241af0c59fa3403596f2",
+    "files": 100
+  },
+  {
+    "repo": "Sfabi28/libft_tester",
+    "url": "https://github.com/Sfabi28/libft_tester",
+    "commit": "d65a08cf24a9e901e659bd9a8b3e565f02c2f63b",
+    "branch": "main",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "046ca8cdef9a6d80e483fc3e71707310c93ed87b9fb77a43f3b7531eb5bca931",
+    "files": 50
+  },
+  {
+    "repo": "adrossig/libft_tester",
+    "url": "https://github.com/adrossig/libft_tester",
+    "commit": "90f83defb14ef3ce7466b4eec62743e47e3be9c3",
+    "branch": "master",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "8eb56dc7cc60f28a3224d1619e8173f8c6d903bf130ac5fb8f26606c08ce0687",
+    "files": 3
+  },
+  {
+    "repo": "jessevdwolf/libft-test-container",
+    "url": "https://github.com/jessevdwolf/libft-test-container",
+    "commit": "491d58a27a500a17ab13cd44e5a2eb15705b5e28",
+    "branch": "master",
+    "archived": false,
+    "retrieved_status": 200,
+    "archive_sha256": "8bf26bf62726ef156bb6952fe0f2d2bc96e97120d0b392503666b3334c12f283",
+    "files": 26
+  },
+  {
+    "repo": "Blaeste/libfterator",
+    "url": "https://github.com/Blaeste/libfterator",
+    "commit": "7825c12d4c7aa4b9cf3b7b5e379f6f06f81d4aaf",
+    "branch": "main",
+    "archived": false,
+    "retrieved_status": 200,
+    "declared_subject": "19.3 (ne pas assimiler à PDF 1.3)",
+    "archive_sha256": "518b6ffd9434cdbe4f99ff933d13abccd5706208cf3e36254997256f438ea390",
+    "files": 48
+  },
+  {
+    "repo": "ylam21/42_Libft_Tester",
+    "url": "https://github.com/ylam21/42_Libft_Tester",
+    "commit": "814ba4e405d674cf3b2023ecd564c0043b5028ea",
+    "branch": "main",
+    "archived": false,
+    "retrieved_status": 200,
+    "declared_subject": "19.3 (ne pas assimiler à PDF 1.3)",
+    "archive_sha256": "9ce013bd8b0b4918845554b6dbf599d153af59ac8783003923179c34ff5eee3c",
+    "files": 124
+  }
+]
